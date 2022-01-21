@@ -46,11 +46,11 @@
 
 
 - GPL许可协议里提到将衍生作品源码以[GPLv2][1]条款免费许可给任何第三方
-  ![Image](D:\OpenSourceCases\image\sfcvsvizio.png)
+  ![Image](img/sfcvsvizio.png)
   
 
 - SFC认为其购买了电视，是属于相关协议中的收益第三人，也就是上方所诉的受赠人受益人
-  ![Image](D:\OpenSourceCases\image\sfcvsvizio2.png)
+  ![Image](img/sfcvsvizio2.png)
     
 
 [1]:https://compliance.openeuler.org/license/680
