@@ -1,4 +1,4 @@
-## Patrick McHardy事件对开源社区的影响
+## Patrick McHardy事件最终和解带来的思考
 
 > ### 事件背景
 - Netfilter 是一个社区驱动的协作 FOSS 项目，最初由 Paul Rusty Russell 于1998年创立，随着项目的发展，他在 1999 年成立了 Netfilter 核心团队。该项目为 Linux2.4.x 及之后的版本内核系列提供网络包过滤软件，通常与 Iptables 相关联，作为 Linux 内核中的一个模块。手机，智能手表，路由器等终端和网络设备的企业都会使用Linux来开发，如小米、OPPO、华为、思科、爱立信都可能会使用到Netfilter。
