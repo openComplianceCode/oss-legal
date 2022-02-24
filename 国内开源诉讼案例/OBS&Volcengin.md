@@ -57,9 +57,9 @@ wget https://datarangers.com.cn/apminsight/repo/v2/download/java-agent/apminsigh
     ![Image](img/skywalking6.png)
 
 
->   对于这这两件违规案例里，我们可以看到对于开源的项目使用是需要建立在合规的基础之上，项目在入口到出口这条供应链上需要做好自我的审查。
+>   **对于这这两件违规案例里，我们可以看到对于开源的项目使用是需要建立在合规的基础之上，项目在入口到出口这条供应链上需要做好自我的审查。**
 > 
->   同时从OBS与SkyWalking的处理方式可以看出，他们更多的是以以开发与包容的思想来运营开源社区，在遇到违规行为时，是先沟通而不是通过法律执行维权行为。    
+>   **同时从OBS与SkyWalking的处理方式可以看出，他们更多的是以以开发与包容的思想来运营开源社区，在遇到违规行为时，是先沟通而不是通过法律执行维权行为。**
 
   [1]:https://github.com/apache/skywalking-java/blob/395ce4f86ae14cf24af489a6aa7e849b1d9a27ed/apm-sniffer/config/agent.config
 
