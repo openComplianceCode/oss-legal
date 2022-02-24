@@ -1,8 +1,9 @@
-### 一场持续近20年的诉讼案
+## 一场持续近20年的诉讼案
 
 - SCO在美国犹他州地方法院提起的民事诉讼，起诉IBM和Red Hat 非法复制其Unix的服务器操作系统的软件代码。该诉讼于 2003 年提起，一直持续到SCO 集团的破产和SCO 诉 Novell的不利结果。
 
-> 案例时间线：
+> ### 案例时间线：
+
 >- 2003年3月——SCO GROUP声称其对AT&T的Unix和UnixWare操作系统源代码具有所有权，Linux是AT&T Unix的未经授权的衍生产品，IBM分发Linux违反了合同义务
 >
 >- 2003年5月——Novell公开声明SCO不拥有相关的AT&T Unix知识产权，而Novell拥有(<font color=#9ACD32>SCO与1995年收购了Novell公司的UnixWare业务</font>)
