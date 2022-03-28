@@ -30,7 +30,7 @@ CLA（**Contributor License Agreement**）顾名思义，是具有法律效应�
 
 我们认为：**CLA是License的明确和补充。它降低很多措辞的模糊性带来相关法律风险，同时对License未覆盖到部分的权利义务关系进行了补充。**
 
-![Image](img.png)
+![Image](img/CLA3.png)
 
 很多流行的开源License，它们依赖职业礼貌、道德和黑客价值观对著作权和专利权的授权进行说明，并没有清晰的定义。如MIT总共只有167个词。
 
